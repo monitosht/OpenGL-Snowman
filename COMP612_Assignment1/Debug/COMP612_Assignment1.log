@@ -1,0 +1,12 @@
+﻿  source.c
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(399,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(432,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(610,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(617,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(624,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(631,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(638,20): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\source.c(645,20): warning C4018: '<': signed/unsigned mismatch
+  COMP612_Assignment1.vcxproj -> D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\Debug\COMP612_Assignment1.exe
+  D:\Documents\AUT\Computer Science\2023\SEM 1\COMP612\A1\COMP612_Assignment1\OpenGL-Snowman\COMP612_Assignment1\freeglut\bin\freeglut.dll
+  1 File(s) copied
