@@ -8,7 +8,7 @@
  
  `Click` and `Drag` the snowman's head to move and drop it.
 
-
+# Screenshots
  ![Snow particles falling.](/resources/screenshot_2.png?raw=true "Snow Particles")
  
 
